@@ -3,11 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\maros\\Downloads\\Y2Q2 quality ass\\Assignment2\\PROG2070Assignment2\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{8B417133-4C02-4ACF-960F-60BDB0AE7F3A}|..\\UnitTestAssignment2\\UnitTestAssignment2.csproj|c:\\users\\maros\\downloads\\y2q2 quality ass\\assignment2\\unittestassignment2\\rectangletest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5E6020A9-7DB0-4C46-9EB5-F563FE1B6532}|PROG2070Assignment2.csproj|c:\\users\\maros\\downloads\\y2q2 quality ass\\assignment2\\prog2070assignment2\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5E6020A9-7DB0-4C46-9EB5-F563FE1B6532}|PROG2070Assignment2.csproj|solutionrelative:rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5E6020A9-7DB0-4C46-9EB5-F563FE1B6532}|PROG2070Assignment2.csproj|c:\\users\\maros\\downloads\\y2q2 quality ass\\assignment2\\prog2070assignment2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5E6020A9-7DB0-4C46-9EB5-F563FE1B6532}|PROG2070Assignment2.csproj|C:\\Users\\maros\\Downloads\\Y2Q2 quality ass\\Assignment2\\PROG2070Assignment2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5E6020A9-7DB0-4C46-9EB5-F563FE1B6532}|PROG2070Assignment2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -23,19 +26,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "RectangleTest.cs",
+              "DocumentMoniker": "C:\\Users\\maros\\Downloads\\Y2Q2 quality ass\\Assignment2\\UnitTestAssignment2\\RectangleTest.cs",
+              "RelativeDocumentMoniker": "..\\UnitTestAssignment2\\RectangleTest.cs",
+              "ToolTip": "C:\\Users\\maros\\Downloads\\Y2Q2 quality ass\\Assignment2\\UnitTestAssignment2\\RectangleTest.cs",
+              "RelativeToolTip": "..\\UnitTestAssignment2\\RectangleTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T05:41:07.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Rectangle.cs",
               "DocumentMoniker": "C:\\Users\\maros\\Downloads\\Y2Q2 quality ass\\Assignment2\\PROG2070Assignment2\\Rectangle.cs",
               "RelativeDocumentMoniker": "Rectangle.cs",
               "ToolTip": "C:\\Users\\maros\\Downloads\\Y2Q2 quality ass\\Assignment2\\PROG2070Assignment2\\Rectangle.cs",
               "RelativeToolTip": "Rectangle.cs",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAswDsAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-08T05:36:54.761Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\maros\\Downloads\\Y2Q2 quality ass\\Assignment2\\PROG2070Assignment2\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -43,8 +59,7 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-08T04:59:51.108Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-08T04:59:51.108Z"
             }
           ]
         }

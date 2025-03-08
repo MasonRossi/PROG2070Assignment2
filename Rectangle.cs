@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace PROG2070Assignment2
 {
-    internal class Rectangle
+    public class Rectangle
     {
         private int length;
         private int width;
