@@ -1,0 +1,7 @@
+C:\Users\maros\Downloads\Y2Q2 quality ass\Assignment2\PROG2070Assignment2\bin\Debug\PROG2070Assignment2.exe.config
+C:\Users\maros\Downloads\Y2Q2 quality ass\Assignment2\PROG2070Assignment2\bin\Debug\PROG2070Assignment2.exe
+C:\Users\maros\Downloads\Y2Q2 quality ass\Assignment2\PROG2070Assignment2\bin\Debug\PROG2070Assignment2.pdb
+C:\Users\maros\Downloads\Y2Q2 quality ass\Assignment2\PROG2070Assignment2\obj\Debug\PROG2070Assignment2.csproj.AssemblyReference.cache
+C:\Users\maros\Downloads\Y2Q2 quality ass\Assignment2\PROG2070Assignment2\obj\Debug\PROG2070Assignment2.csproj.CoreCompileInputs.cache
+C:\Users\maros\Downloads\Y2Q2 quality ass\Assignment2\PROG2070Assignment2\obj\Debug\PROG2070Assignment2.exe
+C:\Users\maros\Downloads\Y2Q2 quality ass\Assignment2\PROG2070Assignment2\obj\Debug\PROG2070Assignment2.pdb

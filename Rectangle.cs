@@ -21,11 +21,10 @@ namespace PROG2070Assignment2
         // Non-default constructor
         public Rectangle(int length, int width)
         {
-            this.length = length;
-            this.width = width;
+            this.length = (length > 0 && length <= 1200) ? length : 1;
+            this.width = (width > 0 && width <= 1200) ? width : 1;
         }
 
-        // Get and Set Methods
         public int GetLength()
         {
             return length;
@@ -33,7 +32,10 @@ namespace PROG2070Assignment2
 
         public int SetLength(int length)
         {
-            this.length = length;
+            if (length > 0 && length <= 1200)
+            {
+                this.length = length;
+            }
             return this.length;
         }
 
@@ -44,11 +46,13 @@ namespace PROG2070Assignment2
 
         public int SetWidth(int width)
         {
-            this.width = width;
+            if (width > 0 && width <= 1200)
+            {
+                this.width = width;
+            }
             return this.width;
         }
 
-        // Perimeter and Area Methods
         public int GetPerimeter()
         {
             return 2 * (length + width);
